@@ -80,8 +80,8 @@ body{
 }
 
 .info_box .info-list .info span{
-    font-weight: 600;
-    color: blue;
+    font-weight: 800;
+    color: rgb(0, 0, 0);
 }
 .info_box .buttons{
     height: 60px;
@@ -92,7 +92,7 @@ body{
     border-top: 1px solid lightgrey;
 }
 
-.info_box .buttons button{
+.info_box .buttons button {
     margin: 0 5px;
     height: 40px;
     width: 100px;
@@ -102,7 +102,7 @@ body{
     border: none;
     outline: none;
     border-radius: 5px;
-    border: 1px solid black;
+    border: 2.5px solid black;
     transition: all 0.3s ease;
 }
 
@@ -322,7 +322,7 @@ footer button.show{
 
 .result_box .icon{
     font-size: 100px;
-    color: #fff133;
+    color: #000000;
     margin-bottom: 10px;
 }
 
@@ -380,3 +380,4 @@ footer button.show{
     color: #fff;
     background: #007bff;
 }
+
