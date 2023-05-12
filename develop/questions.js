@@ -24,7 +24,7 @@ let questions = [
     {
         numb: 3,
         question: "What is the correct syntax for creating a variable in Javascript?",
-        answer: "var myVariable",
+        answer: "var myVariable;",
         options: [
             "var = myVariable;",
             "var myVariable;",
@@ -35,7 +35,7 @@ let questions = [
     {
         numb: 4,
         question: "which keyword is used to declare a function in JavaScript?",
-        answer: "funtion",
+        answer: "function",
         options: [
             "let",
             "execute",
@@ -60,7 +60,7 @@ let questions = [
         answer: "// This is a comment",
         options: [
             "/* this is a comment */",
-            "<!-- This is a comment -->",
+            "Comment = this is a comment",
             "#this is a comment",
             "// This is a comment"
         ]
